@@ -16,6 +16,7 @@
         <module>config-service</module>
         <module>vaadin-ui-service</module>
         <module>jsp-ui-service</module>
+        <module>mongo-spring-data-service</module>
     </modules>
 
     <parent>
